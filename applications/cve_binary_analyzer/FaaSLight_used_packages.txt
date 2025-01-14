@@ -1,0 +1,9 @@
+aiohttp
+google
+google.auth
+gslib
+gslib.vendored
+oauth2client
+oauth2client.contrib
+urllib3
+urllib3.contrib
